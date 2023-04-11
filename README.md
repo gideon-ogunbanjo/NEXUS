@@ -3,7 +3,7 @@ This is the official repository for NEXUS
 ### Overview
 #### Nexus
 Nexus - House Price Prediction Model
-Nexus is a machine learning model designed to predict the prices of houses based on the number of features passed into it. It is built using Python and several popular machine learning libraries, including Scikit-learn and NumPy.
+Nexus is a machine learning model designed to predict the prices of houses based on the number of features passed into it. It is built using Python and several popular machine learning libraries, including Scikit-learn, NumPy, Pandas, Matplotlib and Seaborn
 ### Dataset
 Nexus uses a dataset of housing prices that includes a variety of features related to each house. The dataset is stored in a comma-separated values (CSV) file, and the features included in the dataset are: Unique identifies for the house, date, price, bedrooms, floors, waterfront, view, condition (an index from 1 to 5 on the condition of the house), zip code, furnishing status, parking area, e.t.c
 ### Preporcessing
